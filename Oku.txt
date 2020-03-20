@@ -1,0 +1,8 @@
+Kurulum Ve Açma Adýmlarý :
+Kurulum
+1- cd /opt
+2- git clone github.com/ihsandemir1/BruteSploit-TrEdition
+Açma
+1- cd /opt/BruteSploit-TrEdition
+2- chmod +x Brutesploit
+3- sudo ./Brutesploit
