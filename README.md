@@ -15,7 +15,7 @@ That can be used during a penetration test to enumerate and can be used in CTF f
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1Mxv86wyDCuRJWKCEiHHq7LCTStrUAoATf)
 
 
 
@@ -52,11 +52,10 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## Donations 
 
-- Donation: Send to [bitcoin](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+- Donation: Send to [bitcoin](https://blockchain.info/id/address/1Mxv86wyDCuRJWKCEiHHq7LCTStrUAoATf)
 
-- Addres Bitcoin : 1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS
+- Addres Bitcoin : 1Mxv86wyDCuRJWKCEiHHq7LCTStrUAoATf
 
-- <img src="https://cloud.githubusercontent.com/assets/17976841/25007109/75380fa6-2089-11e7-8a4a-4a8ae9c06e24.png" width="30%"></img>
 
 ## :octocat: Credits
 
